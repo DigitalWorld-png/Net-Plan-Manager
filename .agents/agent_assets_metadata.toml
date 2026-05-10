@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "AfTxoHbR9zFdLMAFdM3Sr"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "internet_app_icon"
+
+[[generated]]
+id = "k30OQeeHKgy5RaW3Td9gK"
+uri = "file://artifacts/mobile/assets/images/promo_banner.png"
+type = "image"
+title = "promo_banner"
+
+[[generated]]
+id = "qS3ft3x_Z07R0w5PtTA0U"
+uri = "file://artifacts/mobile/assets/images/hero_bg.png"
+type = "image"
+title = "hero_background"
