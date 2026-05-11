@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ab26880c-3479-4919-ae30-7e2ddbe23cfe"
+      }
+    },
+    "android": {
+      "package": "com.digitalworldpng.edwc"
+    }
+  }
+}
